@@ -1,0 +1,12 @@
+name: uagent
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8.16
+  - pip
+  - pip:
+      - torch==2.0.0
+      - torchvision==0.15.0
+      - -r requirements.txt

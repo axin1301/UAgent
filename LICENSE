@@ -1,0 +1,11 @@
+UAgent Packaging License Placeholder
+
+This packaged directory was created from a research codebase for release preparation.
+
+Before publishing this directory publicly, replace this file with the actual project license
+that is consistent with the original repository, third-party dependencies, and any external tool
+integrations used by your release.
+
+Suggested next step:
+- replace this placeholder with the final approved LICENSE text (for example, MIT, Apache-2.0, etc.)
+- ensure the license matches the original project and all bundled files
