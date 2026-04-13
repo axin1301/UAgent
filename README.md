@@ -2,7 +2,7 @@
 
 We present UAgent, an evidence-constrained multimodal agent framework for zero-shot socioeconomic inference from urban visual data. UAgent reformulates prediction as a structured, evidence-driven reasoning process that decomposes socioeconomic queries into modality-aware visual signals, constructs an explicit urban state grounded in tool-derived features, and incorporates iterative self-reflection to detect missing or inconsistent evidence before producing final estimates. By constraining inference to structured visual evidence, UAgent improves interpretability and calibration while mitigating unsupported predictions.
 
-
+![](figs/UAgent-Framework.png)
 
 This directory packages the core pipeline from the research codebase into a more reusable and GitHub-friendly layout.
 
